@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.logo img {
+  height: 13px;
+}
+
+.header {
+  background-color:  black;
+  padding: 1.1rem 24px 1rem 20px;
+}
+
+.burger {
+  color: white;
+  font-size: 1.2rem;
+  margin-right: .2rem;
+
+}
+
+
+
+.header-options-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.padding-container {
+  padding: 0 20px 0 20px;
+  text-align: center;
+  padding-top: 35px;
+  letter-spacing: .5px;
+}
+
+
+.a-home {
+  font-size: 2rem;
+  font-weight: 100;
+  line-height: 29px;
+}
+
+.home-info {
+  margin: 22px 0 3.1rem 0;
+font-size: 15px;
+padding-bottom: .5rem;
+line-height: 20px;
+    color: #666;
+
+}
+
+.solar-panel img {
+  width: 100%;
+}
+
+.learn-more-bar {
+  background-color: #3399FF;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: .7rem;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+      margin-bottom: 90px;
+}
+
+.solar-roof-container {
+  text-align: center;
+}
+
+#powerwallinfo {
+  margin-bottom: .8rem;
+}
+
+#solarroofinfo {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+#solarrooftitle {
+  color: white;
+  padding-top: 1.6rem;
+}
+
+#learn-more-solar {
+      background-color: rgba(0,0,0,0.3);
+}
+.solar-roof-container {
+  background-image: url(./img/section-roof-march--touch.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 33.4rem;
+  padding: 1.25rem;
+}
+
+.blue-pic-container {
+  background-image: url(./img/section-commercial--touch.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60.3rem;
+  text-align: center;
+  padding: 1.25rem;
+  color: white;
+}
+
+#blue-info {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+#blue-title {
+  margin-top: 1.25rem;
+  margin-bottom: 3.5rem;
+}
+
+#blue-blue-bar {
+  margin-bottom: 1rem;
+  background-color: rgba(0,0,0,0.3);
+}
+
+.mobile-footer {
+  background-color: #333333;
+  text-align: center;
+  padding: 1rem 7.3rem 0 7.3rem;
+  color: white;
+}
+
+.country-bar {
+  background-color: #222;
+  border: 1px solid #666;
+  width: 100%;
+  padding: .6rem 0rem .6rem 1rem;
+  font-size: 13px;
+  display: flex;
+  margin-top: .25rem;
+  color: #ccc;
+  text-align: center;
+}
+
+.flag img {
+  height: .7rem;
+  margin-right: .5rem;
+}
+
+.us-icon {
+  margin-left: .25rem;
+  font-size: 12px;
+}
+
+.privacy {
+  margin-top: .5rem;
+  font-size: 14px;
+}
+
+.footer-copyright {
+  font-size: 14px;
+  padding-top: .5rem;
+}
+
+.mobile-footer-container {
+  text-align: center;
+  background-color: #333333;
+  color: white;
+  padding: 0 7.5rem 0 7rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.

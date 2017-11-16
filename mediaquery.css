@@ -1,0 +1,412 @@
+@media screen and (max-width: 944px) {
+  .desktop {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 944px) {
+  .mobile {
+    display: none;
+  }
+  .house {
+    height: 23.2rem;
+    background-image: url(./img/section-hero-march.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .model-options {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  .sign-in {
+    color: white;
+    cursor: pointer;
+  }
+  .options-container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: .02rem;
+    font-weight: bold;
+  }
+  .options {
+    color: white;
+    cursor: pointer;
+    padding-right: .5rem;
+  }
+  .sign-in {
+    margin-right: 2rem;
+    padding-left: 14rem;
+    cursor: pointer;
+  }
+  .logo img {
+    padding-right: 12rem;
+    cursor: pointer;
+  }
+  .right-header {
+    display: flex;
+    justify-content: space-between;
+  }
+  .house-info-container {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  }
+  .house-info {
+    font-size: 34px;
+    margin-bottom: 25px;
+    margin-top: 44px;
+    padding-right: 23rem;
+    font-weight: 100;
+  }
+  .house-options {
+    margin-top: 55px;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+  }
+
+  .house-options:hover {
+    color: #666;
+  }
+
+  .options:hover {
+    color: #666;
+  }
+
+  .sign-in:hover {
+    color: #666;
+  }
+  .house {
+    padding: 0 1.2rem 0 1.2rem;
+  }
+  .a-home {
+    margin-top: 2rem;
+    font-size: 2.4rem;
+    letter-spacing: 1px;
+  }
+  .solar-panel img {
+    width: 100%;
+  }
+  .solar-panel {
+    display: inline-block;
+  }
+  .padding-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2;
+    padding: 0;
+  }
+
+  .contain {
+    padding: 0 20px 0 20px;
+    text-align: center;
+    padding-top: 35px;
+    letter-spacing: .5px;
+  }
+  .home-info {
+    margin: 22px 0 2.8rem 0;
+  }
+  #learnmore1 {
+    margin-bottom: .7rem;
+  }
+  .learn-padding {
+    padding: 0 7rem 0 7rem;
+  }
+  .solar-roof-container {
+    background-image: url(./img/section-roof-march.jpg);
+  }
+  .blue-pic-container {
+    background-image: url(./img/section-commercial.jpg);
+    height: 40rem;
+    padding: 4rem 10rem 3rem 10rem;
+  }
+  #padme {
+    padding: 0 2rem 0 2rem;
+  }
+  .footer-container {
+    display: flex;
+  }
+  .footer-option {
+    border-left: 1px solid rgba(204, 204, 204, 0.5);
+    padding-left: 8px;
+    margin-left: 4px;
+    color: #666;
+    font-size: 15px;
+  }
+  .footer-copyright {
+    padding: 0;
+    color: #666;
+    font-size: 15px;
+  }
+  .footer-container {
+    font-size: 13px;
+    padding: 20px 20px 12px 20px;
+  }
+  .us {
+    color: #666;
+  }
+  .right-side {
+    display: inline-block;
+  }
+  .left-side {
+    display: inline-block;
+  }
+  .learn-more-bar {
+    font-size: 14px;
+    letter-spacing: .5px;
+    min-width: 225px;
+  }
+  .grid-side {
+    display: flex;
+    justify-content: space-between;
+  }
+  #padmesolar {
+    padding: 0 20rem 0 20rem;
+  }
+  #blue-blue-bar {
+    margin-bottom: 0;
+  }
+
+  .burger {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 3%;
+    left: 98%;
+  }
+}
+
+@media screen and (min-width: 1046px) {
+  .house {
+    height: 25.5rem;
+  }
+  .learn-padding {
+    padding: 0 9rem 0 9rem;
+  }
+  #padmesolar {
+    padding: 0 25rem 0 25rem;
+  }
+  #padme {
+    padding: 0 4rem 0 4rem;
+  }
+}
+
+@media screen and (min-width: 1218px) {
+  .house {
+    height: 29.2rem;
+  }
+  .blue-pic-container {
+    height: 46.4rem;
+    padding: 4rem 16rem 3rem 16rem;
+  }
+  .home-info {
+    padding-bottom: 0;
+    padding: 0 1rem 0 1rem;
+  }
+  #blue-blue-bar {
+    margin-top: 2rem;
+  }
+  .footer-container {
+    font-size: 13px;
+    padding: 20px 50px 12px 80px;
+  }
+  #blue-title {
+    margin-top: .5rem;
+    margin-bottom: 1.5rem;
+  }
+  .learn-padding {
+    padding: 0 9rem 0 9rem;
+  }
+  #padmesolar {
+    padding: 0 25rem 0 25rem;
+  }
+  #padme {
+    padding: 0 4rem 0 4rem;
+  }
+}
+
+@media screen and (min-width: 1361px) {
+  .house {
+    height: 33rem;
+    padding: 0 10rem 0 10.5rem;
+  }
+  .solar-roof-container {
+    height: 41.3rem;
+  }
+  .blue-pic-container {
+    height: 52.8rem;
+    padding: 4rem 20rem 3rem 20rem;
+  }
+  .home-info {
+    padding-bottom: 0;
+    padding: 0 1rem 0 1rem;
+  }
+
+  .pic1 {
+        padding-left: 9rem;
+  }
+
+  .pic2 {
+        padding-right: 9rem;
+  }
+
+  #padmesolar {
+    padding: 0 34rem 0 34rem;
+}
+
+.footer-container {
+    padding: 20px 50px 12px 185px;
+}
+
+#blue-title {
+    margin-top: .5rem;
+    margin-bottom: 2.5rem;
+}
+
+}
+
+
+
+@media screen and (min-width: 1535px) {
+  .house {
+    height: 37.1rem;
+    padding: 0 15rem 0 15.5rem;
+  }
+  .solar-roof-container {
+    height: 46.3rem;
+  }
+  .blue-pic-container {
+    height: 59rem;
+    padding: 4rem 25rem 3rem 25rem;
+  }
+  .home-info {
+    padding-bottom: 0;
+    padding: 0 1rem 0 1rem;
+  }
+
+  .pic1 {
+        padding-left: 15rem;
+  }
+
+  .pic2 {
+        padding-right: 15rem;
+  }
+
+  #padmesolar {
+    padding: 0 40rem 0 40rem;
+}
+
+.footer-container {
+    padding: 20px 50px 12px 250px;
+}
+
+#blue-title {
+    margin-top: .5rem;
+    margin-bottom: 2.5rem;
+}
+
+.logo img {
+  padding-right: 29rem;
+}
+
+.sign-in {
+  padding-left: 30rem;
+}
+
+}
+
+
+@media screen and (min-width: 1535px) {
+
+  .logo img {
+    padding-right: 34rem;
+  }
+
+  .sign-in {
+    padding-left: 34rem;
+  }
+
+  .house {
+    height: 40.6rem;
+    padding: 0px 20rem 0 20.5rem;
+}
+
+.house-info {
+  padding-right: 30rem;
+}
+
+.pic1 {
+      padding-left: 20rem;
+}
+
+.pic2 {
+      padding-right: 20rem;
+}
+.solar-roof-container {
+  height: 51.3rem;
+}
+.blue-pic-container {
+  height: 64.5rem;
+  padding: 4rem 30rem 3rem 30rem;
+}
+
+#padmesolar {
+  padding: 0 44rem 0 44rem;
+}
+
+.footer-container {
+    padding: 20px 50px 12px 310px;
+}
+
+
+
+
+}
+
+
+@media screen and (min-width: 1735px) {
+
+  .logo img {
+    padding-right: 42rem;
+  }
+
+  .sign-in {
+    padding-left: 42rem;
+  }
+
+  .house {
+    height: 46.6rem;
+    padding: 0px 27rem 0 27.5rem;
+}
+
+.house-info {
+  padding-right: 30rem;
+}
+
+.pic1 {
+      padding-left: 28rem;
+}
+
+.pic2 {
+      padding-right: 28rem;
+}
+.solar-roof-container {
+  height: 58rem;
+}
+.blue-pic-container {
+  height: 74rem;
+  padding: 4rem 39rem 3rem 39rem;
+}
+
+#padmesolar {
+  padding: 0 44rem 0 44rem;
+}
+
+.footer-container {
+    padding: 20px 50px 12px 450px;
+}
+
+
+}
